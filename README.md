@@ -1,3 +1,9 @@
+<img width="1440" alt="Screen Shot 2021-01-11 at 4 41 16 PM" src="https://user-images.githubusercontent.com/58486460/104254849-9af56600-542c-11eb-97d5-49199b4d4303.png">
+<img width="1440" alt="Screen Shot 2021-01-11 at 4 41 38 PM" src="https://user-images.githubusercontent.com/58486460/104254851-9d57c000-542c-11eb-845a-fb4a1daa0345.png">
+<img width="1440" alt="Screen Shot 2021-01-11 at 4 41 59 PM" src="https://user-images.githubusercontent.com/58486460/104254853-9e88ed00-542c-11eb-9462-6611ffeccc0d.png">
+<img width="1440" alt="Screen Shot 2021-01-11 at 4 42 15 PM" src="https://user-images.githubusercontent.com/58486460/104254857-a052b080-542c-11eb-8f9b-8f8672233fcd.png">
+<img width="1440" alt="Screen Shot 2021-01-11 at 4 42 33 PM" src="https://user-images.githubusercontent.com/58486460/104254859-a183dd80-542c-11eb-8e39-e1a1ac519d08.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
